@@ -1,2 +1,2 @@
 # 12-45-team
-python
+Hello this is my project
